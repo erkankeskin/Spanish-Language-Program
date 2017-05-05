@@ -1,0 +1,802 @@
+[
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\valiente.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\valiente.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_btn.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\src\\main\\res\\drawable\\green_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\speaker.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_button.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\src\\main\\res\\drawable\\orange_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hola.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\src\\main\\res\\drawable\\hola.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashbg.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\src\\main\\res\\drawable\\splashbg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cocina.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\cocina.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_btn.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\green_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sbubble.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\src\\main\\res\\drawable\\sbubble.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\volver.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\volver.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alfombra.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\alfombra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sbubble.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\sbubble.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mic.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\src\\main\\res\\drawable\\mic.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashbg.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\splashbg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sbubble_right.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\src\\main\\res\\drawable\\sbubble_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\greensquare.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\src\\main\\res\\drawable\\greensquare.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\semana.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\semana.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\martillo.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\martillo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hola.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\hola.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reloj.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\reloj.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menubg.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\menubg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bluesquare.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\bluesquare.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bluesquare.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\src\\main\\res\\drawable\\bluesquare.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_btn.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\src\\main\\res\\drawable\\green_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\humanidad.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\humanidad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\leer.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\leer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gato.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\gato.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kirmizi.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\kirmizi.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\enfermera.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\enfermera.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mesa.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\mesa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sbubble_right.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\src\\main\\res\\drawable\\sbubble_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amor.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\amor.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\invierno.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\invierno.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\greensquare.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\src\\main\\res\\drawable\\greensquare.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sbubble.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\src\\main\\res\\drawable\\sbubble.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coche.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\coche.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg2.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\src\\main\\res\\drawable\\bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mavi_btn.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\mavi_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_button.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\src\\main\\res\\drawable\\orange_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sbubble.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\src\\main\\res\\drawable\\sbubble.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\futuro.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\futuro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bluesquare.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\src\\main\\res\\drawable\\bluesquare.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comida.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\comida.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\espacio.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\espacio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mic.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\mic.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mic.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\src\\main\\res\\drawable\\mic.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kirmizi.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\src\\main\\res\\drawable\\kirmizi.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mavi_btn.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\src\\main\\res\\drawable\\mavi_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sbubble_right.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\sbubble_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sbubble_right.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\src\\main\\res\\drawable\\sbubble_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mavi.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\src\\main\\res\\drawable\\mavi.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lluvia.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\lluvia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mavi.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\mavi.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mavi_btn.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\src\\main\\res\\drawable\\mavi_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cafe.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\cafe.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rey.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\rey.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menubg.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\src\\main\\res\\drawable\\menubg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg2.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\helado.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\helado.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manzana.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\manzana.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yesil.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\src\\main\\res\\drawable\\yesil.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flor.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\flor.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camisa.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\camisa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cuchillo.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\cuchillo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\noche.jpeg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\noche.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\libro.jpeg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\libro.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\carretera.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\carretera.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mic.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\src\\main\\res\\drawable\\mic.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feliz.jpeg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\feliz.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rodilla.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\rodilla.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cama.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\cama.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\greensquare.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\greensquare.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_button.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\orange_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lapiz.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\lapiz.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sillon.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\sillon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hola.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\src\\main\\res\\drawable\\hola.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\puerta.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\puerta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yesil.png",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\yesil.png"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\desayuno.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\desayuno.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\computador.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\computador.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dolor.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\dolor.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mar.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\mar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corbata.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\corbata.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menubg2.jpg",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\src\\main\\res\\drawable\\menubg2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Samsung0\\Desktop\\android\\SpanishLearn 2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    }
+]
